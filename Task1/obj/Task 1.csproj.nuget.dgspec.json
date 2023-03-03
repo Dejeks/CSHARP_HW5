@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\C# HW5\\Task 1\\Task 1.csproj": {}
+    "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\C# HW5\\Task1\\Task 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\C# HW5\\Task 1\\Task 1.csproj": {
+    "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\C# HW5\\Task1\\Task 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\C# HW5\\Task 1\\Task 1.csproj",
+        "projectUniqueName": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\C# HW5\\Task1\\Task 1.csproj",
         "projectName": "Task 1",
-        "projectPath": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\C# HW5\\Task 1\\Task 1.csproj",
+        "projectPath": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\C# HW5\\Task1\\Task 1.csproj",
         "packagesPath": "C:\\Users\\dejek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\C# HW5\\Task 1\\obj\\",
+        "outputPath": "C:\\Users\\dejek\\OneDrive\\Рабочий стол\\Мое\\My files\\C# geek\\C# HW5\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dejek\\AppData\\Roaming\\NuGet\\NuGet.Config",
