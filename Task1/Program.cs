@@ -20,7 +20,7 @@ int [] GenerateArray (int length)
 int NumberOfEven(int [] arr)
 {
     int count = 0;
-    foreach(int i in arr)
+    for(int i = 0; i < arr.Length ; i++)
     {
         if(arr[i] % 2 == 0)
             count++;
@@ -32,7 +32,7 @@ int NumberOfEven(int [] arr)
 void OutputArray(int [] arr)
 {
     System.Console.WriteLine("Массив: ");
-    for(int i = 0;i < arr.Length ; i++)
+    for(int i = 0; i < arr.Length ; i++)
     {
         System.Console.Write(arr[i] + ",");
     }
@@ -42,4 +42,4 @@ int[] array = GenerateArray(length);
 
 OutputArray(array);
 
-System.Console.WriteLine("Количество четных чисел: ", NumberOfEven(array));
+System.Console.WriteLine("Количество четных чисел: " + NumberOfEven(array));
