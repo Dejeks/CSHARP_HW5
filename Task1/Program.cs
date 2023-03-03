@@ -29,6 +29,8 @@ int NumberOfEven(int [] arr)
     return count;
 }
 
+
+
 void OutputArray(int [] arr)
 {
     System.Console.WriteLine("Массив: ");
